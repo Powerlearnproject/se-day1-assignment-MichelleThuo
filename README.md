@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software.It involves the application of engineering principles to the design, development, testing, and maintenance of software systems. 
@@ -60,7 +60,7 @@ System Testing: Testing the entire software system as a whole.
 Acceptance Testing: Testing the software against user requirements and acceptance criteria.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the art of crafting effective prompts to interact with AI models. It involves understanding the model's capabilities and limitations, and designing prompts that elicit the desired responses.
